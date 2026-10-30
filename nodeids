@@ -1,0 +1,7 @@
+[
+  "tests/test_red_team.py::test_copy_rate_counts_other_leaked_keys_not_target_key",
+  "tests/test_red_team.py::test_leak_advantage_is_armed_minus_blind",
+  "tests/test_red_team.py::test_regenerate_rejects_variant_whose_key_is_not_an_option",
+  "tests/test_red_team.py::test_regeneration_loop_stops_at_max_rounds",
+  "tests/test_red_team.py::test_vulnerable_item_is_regenerated_and_remeasured"
+]
